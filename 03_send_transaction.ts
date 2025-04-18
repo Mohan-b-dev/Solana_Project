@@ -27,7 +27,7 @@ if (!globalThis.fetch) globalThis.fetch = fetch;
 
   // Replace with a valid wallet address
   const receiveraddress = new PublicKey(
-    "AddressLookupTab1e1111111111111111111111111"
+    "7mEWWD3bcGChRUdBZQRp2X9wYFeyUgHD5DvQFt2jtTn3"
   );
 
   const amount = 1; // 0.01 SOL
